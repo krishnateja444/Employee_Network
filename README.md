@@ -166,13 +166,7 @@ The system handles:
 - [ ] Add data persistence to database
 - [ ] Web interface for management
 
-## License
 
-This project is open source and available for educational purposes.
-
-## Author
-
-**sasiakula006-prog**
 
 ## Support
 
